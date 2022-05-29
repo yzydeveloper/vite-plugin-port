@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@types/node': ^17.0.36
   '@yzydeveloper/eslint-config': ^0.1.4
   eslint: ^8.12.0
   tsup: ^5.12.1
@@ -11,6 +12,7 @@ dependencies:
   vite: 2.9.7
 
 devDependencies:
+  '@types/node': 17.0.36
   '@yzydeveloper/eslint-config': 0.1.4_eslint@8.14.0+typescript@4.6.4
   eslint: 8.14.0
   tsup: 5.12.6_typescript@4.6.4
@@ -77,6 +79,10 @@ packages:
 
   /@types/json5/0.0.29:
     resolution: {integrity: sha1-7ihweulOEdK4J7y+UnC86n8+ce4=}
+    dev: true
+
+  /@types/node/17.0.36:
+    resolution: {integrity: sha512-V3orv+ggDsWVHP99K3JlwtH20R7J4IhI1Kksgc+64q5VxgfRkQG8Ws3MFm/FZOKDYGy9feGFlZ70/HpCNe9QaA==}
     dev: true
 
   /@typescript-eslint/eslint-plugin/5.22.0_5b52bb1e77494a9627aef8db6adb10bc:
