@@ -1,6 +1,6 @@
 # vite-plugin-port
 
-Solve the port duplication when Vite starts the service
+Solve the port duplication when Vite starts the service when the `host` option is turned on
 
 ## Install
 ```bash

@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
-  "description": "Solve the port duplication when Vite starts the service",
+  "description": "Solve the port duplication when Vite starts the service when the host option is turned on",
   "keywords": [
     "vite",
     "vite-server"
